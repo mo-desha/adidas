@@ -147,6 +147,7 @@ nav ul li a:hover{
   @media (max-width: 950px) {
     .content, nav{
         flex-direction: column;
+        justify-content: center;
     }
     .content .imag,     .content .text{
         width: 100%;
